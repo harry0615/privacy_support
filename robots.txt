@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dographyapp.com/sitemap.xml
